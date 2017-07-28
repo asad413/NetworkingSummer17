@@ -765,5 +765,8 @@ public class CurrencyActivity extends AppCompatActivity {
 
         String s1 = "";
 
+        // jsonschema2pojo
+        // mockaroo
+
     }
 }
